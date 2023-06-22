@@ -22,6 +22,7 @@ HTML , CSS , JavaScript
 
 ![_C__Users_Dell_Desktop_Ecommerce-main_index html (1)](https://github.com/BharathRaj73/Ecommerce/assets/92433654/7a18c154-7712-4827-b290-74ec03039206)
 ![_C__Users_Dell_Desktop_Ecommerce-main_index html (9)](https://github.com/BharathRaj73/Ecommerce/assets/92433654/8ae1c3b4-8cb8-4bdc-93a0-6614c7d0d175)
+
 ![_C__Users_Dell_Desktop_Ecommerce-main_index html (3)](https://github.com/BharathRaj73/Ecommerce/assets/92433654/4eddd13d-f35d-4b2f-8219-ca5d0d880685)
 ![_C__Users_Dell_Desktop_Ecommerce-main_index html (4)](https://github.com/BharathRaj73/Ecommerce/assets/92433654/b98a405b-a437-45f1-a36a-6ca15b6b87a4)
 ![_C__Users_Dell_Desktop_Ecommerce-main_index html (5)](https://github.com/BharathRaj73/Ecommerce/assets/92433654/d6f0e0c7-4c1a-4abf-bce3-b4ea74ca253d)
